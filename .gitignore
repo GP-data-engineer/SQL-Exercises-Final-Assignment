@@ -1,0 +1,27 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore database files
+*.mdf
+*.ldf
+*.ndf
+
+# Ignore Jupyter checkpoints (in case of notebooks later)
+.ipynb_checkpoints/
+
+# Ignore Python virtual environments (if added for testing queries)
+venv/
+.env/
