@@ -1,6 +1,5 @@
 # SQL-Exercises-Final-Assignment
 A collection of SQL exercises and solutions covering advanced querying, joins, grouping, aggregation, and views. 
-# SQL Exercises – Final Assignment
 
 This repository contains a set of **SQL tasks and solutions** prepared as part of postgraduate studies  
 (*Artificial Intelligence in Data Analysis*, University of Economics in Katowice, 2024–2025).  
